@@ -1,0 +1,11 @@
+# Sistema
+Thumbs.db
+.DS_Store
+*.log
+
+# Entorno
+.env
+
+# Editor
+.vscode/
+.idea/
